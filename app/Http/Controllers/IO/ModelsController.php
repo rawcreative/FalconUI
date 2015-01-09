@@ -1,9 +1,9 @@
-<?php namespace FPP\Http\Controllers;
+<?php namespace FPP\Http\Controllers\IO;
 
 use FPP\Http\Requests;
 use FPP\Http\Controllers\Controller;
 
-class IO/ModelsController extends Controller {
+class ModelsController extends Controller {
 
 	/**
 	 * Display a listing of the resource.

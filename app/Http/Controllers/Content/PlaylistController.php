@@ -1,9 +1,9 @@
-<?php namespace FPP\Http\Controllers;
+<?php namespace FPP\Http\Controllers\Content;
 
 use FPP\Http\Requests;
 use FPP\Http\Controllers\Controller;
 
-class Content/PlaylistController extends Controller {
+class PlaylistController extends Controller {
 
 	/**
 	 * Display a listing of the resource.

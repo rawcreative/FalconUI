@@ -1,9 +1,9 @@
-<?php namespace FPP\Http\Controllers;
+<?php namespace FPP\Http\Controllers\Settings;
 
 use FPP\Http\Requests;
 use FPP\Http\Controllers\Controller;
 
-class Settings/EventsController extends Controller {
+class EventsController extends Controller {
 
 	/**
 	 * Display a listing of the resource.

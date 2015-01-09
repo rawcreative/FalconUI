@@ -1,9 +1,9 @@
-<?php namespace FPP\Http\Controllers;
+<?php namespace FPP\Http\Controllers\Settings;
 
 use FPP\Http\Requests;
 use FPP\Http\Controllers\Controller;
 
-class Settings/EffectController extends Controller {
+class EffectController extends Controller {
 
 	/**
 	 * Display a listing of the resource.

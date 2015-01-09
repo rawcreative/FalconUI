@@ -1,9 +1,9 @@
-<?php namespace FPP\Http\Controllers;
+<?php namespace FPP\Http\Controllers\Help;
 
 use FPP\Http\Requests;
 use FPP\Http\Controllers\Controller;
 
-class Help/HelpController extends Controller {
+class HelpController extends Controller {
 
 	/**
 	 * Display a listing of the resource.

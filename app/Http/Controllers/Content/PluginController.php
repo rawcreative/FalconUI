@@ -1,9 +1,9 @@
-<?php namespace FPP\Http\Controllers;
+<?php namespace FPP\Http\Controllers\Content;
 
 use FPP\Http\Requests;
 use FPP\Http\Controllers\Controller;
 
-class Content/PluginController extends Controller {
+class PluginController extends Controller {
 
 	/**
 	 * Display a listing of the resource.
